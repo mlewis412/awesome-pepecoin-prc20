@@ -30,7 +30,7 @@ The official [Pepecoin Swap](https://pepecoin.com/swap) lets you swap PEP, and [
 
 ## Community
 
-Official Discord, Telegram, and subreddit (contributions welcome).
+Join the community on [Reddit](https://reddit.com/r/pepecoin) (28k+ members), [Discord](https://pepecoin.com/discord) (13k+), and [Telegram](https://t.me/PepecoinGroup) (7k+). Pepecoin is also on [X / Twitter](https://twitter.com/PepecoinNetwork), [Bluesky](https://bsky.app/profile/pepecoin.com), [Facebook](https://www.facebook.com/profile.php?id=61559208990076), [Instagram](https://www.instagram.com/pepecoin_pepe), [YouTube](https://www.youtube.com/@pepecoin), and [TikTok](https://www.tiktok.com/@pepecoin_).
 
 ## Contributing
 
