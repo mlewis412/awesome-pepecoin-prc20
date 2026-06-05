@@ -18,11 +18,19 @@ Official site: [Pepecoin](https://pepecoin.com/). Core node and wallet source: [
 
 ## Mining
 
-Pepecoin is merge-mined (AuxPoW) with Litecoin and Dogecoin. [Peppool](https://peppool.space/) also operates as a mining pool.
+Pepecoin is merge-mined (AuxPoW) with Litecoin and Dogecoin. [Peppool](https://peppool.space/) operates as a mining pool, and live pool stats are on [MiningPoolStats](https://miningpoolstats.stream/pepecoin).
 
 ## Swap & Exchanges
 
-The official [Pepecoin Swap](https://pepecoin.com/swap) lets you swap PEP, and [LetsExchange](https://letsexchange.io/) supports instant PEP exchanges. Additional exchanges are listed on the official site.
+Swap PEP via the official [Pepecoin Swap](https://pepecoin.com/swap) or [LetsExchange](https://letsexchange.io/). PEP also trades on centralized exchanges including [Kraken](https://www.kraken.com/), [MEXC](https://www.mexc.com/), [CoinEx](https://www.coinex.com/), [Biconomy](https://www.biconomy.com/), [XT](https://www.xt.com/), [StakeCube](https://stakecube.net/), and [AscendEX](https://ascendex.com/).
+
+## Faucets
+
+Get small amounts of PEP from [PepeBlocks Faucet](https://faucet.pepeblocks.com/), [Ravener Faucet](https://pepe.ravener.is-a.dev/), or [StakeCube](https://stakecube.net/app/community).
+
+## Market Data
+
+Track PEP on [CoinGecko](https://www.coingecko.com/en/coins/pepecoin-network) and [CoinMarketCap](https://coinmarketcap.com/currencies/pepecoin-org/).
 
 ## Launchpads & Trading
 
