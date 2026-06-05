@@ -6,23 +6,27 @@ Pepecoin (PEP) is an independent, fair-launched Scrypt proof-of-work chain (merg
 
 ## Chain & Core
 
-Official site: [Pepecoin](https://pepecoin.com/). Core node source: [pepecoinppc/pepecoin](https://github.com/pepecoinppc/pepecoin).
+Official site: [Pepecoin](https://pepecoin.com/). Core node and wallet source: [pepecoinppc/pepecoin](https://github.com/pepecoinppc/pepecoin).
 
 ## Explorers
 
-[PepeBlocks](https://pepeblocks.com/) is a block explorer for the Pepecoin chain.
+[PepeBlocks](https://pepeblocks.com/), [PepecoinExplorer](https://pepecoinexplorer.com/), [Pepeplorer](https://pepeplorer.com/), and [Peppool](https://peppool.space/) are block explorers for the Pepecoin chain.
+
+## Wallets
+
+[Pepecoin Core](https://github.com/pepecoinppc/pepecoin) is the official full-node wallet. Other supported wallets include [Coinomi](https://www.coinomi.com/), [Komodo Wallet](https://komodoplatform.com/), [Tangem](https://tangem.com/?promocode=PEPECOIN), and [Nintondo](https://nintondo.io/).
+
+## Mining
+
+Pepecoin is merge-mined (AuxPoW) with Litecoin and Dogecoin. [Peppool](https://peppool.space/) also operates as a mining pool.
+
+## Swap & Exchanges
+
+The official [Pepecoin Swap](https://pepecoin.com/swap) lets you swap PEP, and [LetsExchange](https://letsexchange.io/) supports instant PEP exchanges. Additional exchanges are listed on the official site.
 
 ## Launchpads & Trading
 
 [TokenPrinter](https://tokenprinter.fun/) is a non-custodial launchpad to create and trade PRC-20 memecoins, with a flat 0.69% primary fee and an on-chain order book.
-
-## Wallets
-
-Pepecoin Core wallet and PRC-20-aware wallets (contributions welcome).
-
-## Mining
-
-Merge-mining pools that support PEP (AuxPoW with Litecoin and Dogecoin) are welcome additions.
 
 ## Community
 
